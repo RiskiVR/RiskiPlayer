@@ -20,7 +20,7 @@
 
 - RiskiPlayer is an edited Video player of Merlin's USharp player for VRChat, with a fancy on-screen interface!
 
-<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer.png" alt="Player" width="1280" height="715">
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer.png" alt="Player" width="1000" height="500">
 
 ### Built With
 
