@@ -29,7 +29,7 @@
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Download "RiskiPlayer Public.unitypackage" from the files above
+ - Download "RiskiPlayer Public.unitypackage" from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project
  - **You MUST be using SDK3 and have UdonSharp**
  - Position it wherever you want it in your world! It's resizable as well
