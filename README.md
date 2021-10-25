@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- RiskiPlayer is an edited Video player of Merlin's USharp player for VRChat, with a fancy on-screen interface!
+- RiskiPlayer is a modified video player of Merlin's USharpVideo player for VRChat with a fancy on-screen interface!
 
 <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer.png" alt="Player" width="1000" height="500">
 
@@ -31,7 +31,7 @@
 
  - Download the Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project
- - **You MUST be using SDK3 and have UdonSharp**
+ - **You MUST be using SDK3 and UdonSharp**
  - Position it wherever you want it in your world! It's resizable as well
  - Configure it's starting behavior; You can toggle it's UI visibility on start on the "RiskiPlayer Scripts" Object
 <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer MenuOnStart.png" alt="Player" width="257" height="52">
