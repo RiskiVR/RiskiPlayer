@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundColor: {r: 0.14800748, g: 0.07689569, b: 0.1509434, a: 1}
   fieldBackgroundColor: {r: 0.23584908, g: 0.18912427, b: 0.23584908, a: 1}
-  buttonBackgroundColor: {r: 0.21568628, g: 0.21568628, b: 0.21698111, a: 1}
+  buttonBackgroundColor: {r: 0.21568628, g: 0.21568628, b: 0.21698111, a: 0}
   scrollBarHandleColor: {r: 0.5754717, g: 0.42888927, b: 0.5535937, a: 1}
   scrollBarProgressColor: {r: 0.33095095, g: 0.24644, b: 0.3679245, a: 1}
   iconColor: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 1}
