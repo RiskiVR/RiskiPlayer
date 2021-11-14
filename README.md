@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/RiskiVR/RiskiPlayer">
-    <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayerLogo.png" alt="Logo" width="1000" height="170">
+    <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayerLogo.png" alt="Logo" width="900" height="170">
   </a>
 
   <h3 align="center">Simple and fancy video player for VRChat with an on-screen interface</h3>
@@ -30,7 +30,7 @@
 
 - RiskiPlayer is a modified video player of Merlin's USharpVideo player for VRChat with a fancy on-screen interface!
 
-<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v2.0.png" alt="Player" width="1000" height="500">
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v2.0.png" alt="Player" width="900" height="500">
 
 ### Built With
 
@@ -55,4 +55,4 @@ Project Link: [https://github.com/RiskiVR/RiskiPlayer](https://github.com/RiskiV
 
 - RiskiPlayer v1.0
 
-<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer.png" alt="Player" width="1000" height="500">
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer.png" alt="Player" width="900" height="500">
