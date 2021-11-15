@@ -29,6 +29,7 @@
 ## About The Project
 
 - RiskiPlayer is a modified video player of Merlin's USharpVideo player for VRChat with a fancy on-screen interface!
+- Try it [Here](https://vrchat.com/home/launch?worldId=wrld_5aef79df-3c73-40c1-9158-46439743ae6a&instanceId=88932~private(usr_51f28798-89da-409c-bf4e-343d4d916e02)~canRequestInvite~region(us)~nonce(5bee321c-f3d3-4f72-bbb5-da27242a67ad))!
 
 <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v2.0.png" alt="Player" width="900" height="500">
 
