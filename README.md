@@ -4,10 +4,11 @@
 <br />
 <p align="center">
   <a href="https://github.com/RiskiVR/RiskiPlayer">
-    <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayerLogo.png" alt="Logo" width="900" height="170">
+    <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayerLogo.png" alt="Logo" width="800" height="170">
   </a>
 
   <h3 align="center">Simple and fancy video player for VRChat with an on-screen interface</h3>
+    <h3 align="center">LTCGI Compatible</h3>
 
   <p align="center">
     Requires VRCSDK3 and UdonSharp
@@ -34,6 +35,7 @@
 ## About The Project
 
 - RiskiPlayer is a modified video player of Merlin's USharpVideo player for VRChat with a fancy on-screen interface!
+- This Player is also compatible with [LTCGI](https://github.com/PiMaker/ltcgi)!
 - Try it [Here](https://vrchat.com/home/launch?worldId=wrld_5aef79df-3c73-40c1-9158-46439743ae6a&instanceId=88932~private(usr_51f28798-89da-409c-bf4e-343d4d916e02)~canRequestInvite~region(us)~nonce(5bee321c-f3d3-4f72-bbb5-da27242a67ad))!
 
 <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v2.0.png" alt="Player" width="900" height="500">
