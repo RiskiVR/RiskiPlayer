@@ -25,11 +25,11 @@
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Download [VRCSDK3](https://vrchat.com/home/download) and [UdonSharp](https://github.com/MerlinVR/UdonSharp).
+ - Download [VRCSDK3](https://vrchat.com/home/download) from VRChat and [UdonSharp](https://github.com/MerlinVR) from [MerlinVR](https://github.com/MerlinVR/USharpVideo).
  - Download the Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project.
  - Position it wherever you want it in your world! It's resizable as well.
- - Configure it's starting behavior; You can toggle it's UI visibility on the "-- RiskiPlayer Scripts --" Object.
+ - Configure it's starting behavior; You can toggle it's startup UI visibility on the "-- RiskiPlayer Scripts --" Object.
 <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer MenuOnStart.png" alt="Player" width="257" height="52">
 
 <!-- ABOUT THE PROJECT -->
@@ -56,7 +56,7 @@ Project Link: [https://github.com/RiskiVR/RiskiPlayer](https://github.com/RiskiV
 ## Acknowledgements
 
 * [RiskiVR](https://www.patreon.com/riskivr) - Designer of RiskiPlayer
-* [MerlinVR](https://github.com/MerlinVR/USharpVideo) - Creator of USharpVideo
+* [MerlinVR](https://github.com/MerlinVR/USharpVideo) - UdonSharp & USharpVideo
 * [M.O.O.N](https://www.youtube.com/channel/UC6pqxF0s6FSu6oVm-70lzqQ) - Fullscreen Shader
 
 <!-- ARCHIVES -->
