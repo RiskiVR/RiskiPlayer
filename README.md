@@ -20,7 +20,8 @@
     <br />
   </p>
 </p>
-
+</a>
+  
 <!-- GETTING STARTED -->
 ## How To Use
 
