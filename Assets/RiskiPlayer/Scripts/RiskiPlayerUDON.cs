@@ -9,6 +9,7 @@ public class RiskiPlayerUDON : UdonSharpBehaviour
 {
     [Header("RiskiPlayer Settings")]
     public bool MenuOnStart;
+    public bool FullscreenToggle;
 
     [Header("Internal Elements")]
     public AudioSource ClickSound;
@@ -19,7 +20,6 @@ public class RiskiPlayerUDON : UdonSharpBehaviour
     public GameObject DesktopScreen;
     public Slider BrightnessSlider;
     public MeshRenderer Brightness;
-    public Animator URLButton;
     public Button URL;
 
     private void Start()
@@ -45,7 +45,11 @@ public class RiskiPlayerUDON : UdonSharpBehaviour
         Main.SetTrigger("Fade");
         Debug.Log("UI has been booted");
         if (Networking.LocalPlayer.IsUserInVR() == false)
-            FullscreenButton.SetActive(true);
+        {
+            if (FullscreenToggle == true)
+                FullscreenButton.SetActive(true);
+        }
+            
     }
     public void ExitUI()
     {
