@@ -25,7 +25,7 @@
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Download [VRCSDK3](https://vrchat.com/home/download) from VRChat and [UdonSharp](https://github.com/MerlinVR) from [MerlinVR](https://github.com/MerlinVR/USharpVideo).
+ - Download [VRCSDK3](https://vrchat.com/home/download) from VRChat and [UdonSharp](https://github.com/MerlinVR/UdonSharp/releases) from [MerlinVR](https://github.com/MerlinVR).
  - Download the Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project.
  - Position it wherever you want it in your world! It's resizable as well.
