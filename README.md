@@ -30,7 +30,7 @@
  - Once that's done, import the Unity package into your world project.
  - Position it wherever you want it in your world! It's resizable as well.
  - Configure it's starting behavior; You can toggle it's startup UI visibility on the "-- RiskiPlayer Scripts --" Object.
-<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer MenuOnStart.png" alt="Player" width="257" height="52">
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer Settings.png" alt="Player" width="260" height="69">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
