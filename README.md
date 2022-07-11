@@ -12,7 +12,7 @@
 
   <p align="center">
     Requires VRCSDK3 and UdonSharp
-    <a href="https://github.com/RiskiVR/RiskiPlayer/releases/latest/download/RiskiPlayer_Public_v2.1.unitypackage">
+    <a href="https://github.com/RiskiVR/RiskiPlayer/releases/latest/download/RiskiPlayer_Public_v2.2.unitypackage">
       <p align="center">
       <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/Download.png" alt="Logo" width="400" height="50">
         <a href="https://vrchat.com/home/launch?worldId=wrld_5aef79df-3c73-40c1-9158-46439743ae6a&instanceId=88932~private(usr_51f28798-89da-409c-bf4e-343d4d916e02)~canRequestInvite~region(us)~nonce(5bee321c-f3d3-4f72-bbb5-da27242a67ad)">
