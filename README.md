@@ -11,7 +11,7 @@
     <h3 align="center">LTCGI Compatible</h3>
 
   <p align="center">
-    Requires VRCSDK3 and UdonSharp
+    Requires VRChat Creator Companion and UdonSharp
     <p align="center">
     <a href="https://github.com/RiskiVR/RiskiPlayer/releases/latest/download/RiskiPlayer_Public_v2.2.unitypackage">
       <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/Download.png" alt="Logo" width="400" height="50">
@@ -26,12 +26,12 @@
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Download [VRCSDK3](https://vrchat.com/home/download) from VRChat and [UdonSharp](https://github.com/MerlinVR/UdonSharp/releases) from [MerlinVR](https://github.com/MerlinVR).
- - Download the Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
+ - Download [VRChat Creator Companion](https://vrchat.com/home/download) from VRChat and install UdonSharp in your Creator Companion project settings.
+ - Download the RiskiPlayer Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project.
  - Position it wherever you want it in your world! It's resizable as well.
- - Configure it's starting behavior; You can toggle it's startup UI visibility on the "-- RiskiPlayer Scripts --" Object.
-<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer Settings.png" alt="Player" width="260" height="69">
+ - Configure it's starting behavior; You can toggle it's startup UI visibility on the main RiskiPlayer Object.
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer Settings.png" alt="Player" width="246" height="72">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -40,7 +40,7 @@
 - This Player is also compatible with [LTCGI](https://github.com/PiMaker/ltcgi)!
 - Try it [Here](https://vrchat.com/home/launch?worldId=wrld_5aef79df-3c73-40c1-9158-46439743ae6a&instanceId=88932~private(usr_51f28798-89da-409c-bf4e-343d4d916e02)~canRequestInvite~region(us)~nonce(5bee321c-f3d3-4f72-bbb5-da27242a67ad))!
 
-<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v2.0.png" alt="Player" width="900" height="500">
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v3.0.png" alt="Player" width="900" height="500">
 
 ### Built With
 
@@ -49,19 +49,22 @@
 <!-- CONTACT -->
 ## Contact
 
-RiskiVR - Discord: Risk#3904
+RiskiVR - https://riskivr.com
 
-Project Link: [https://github.com/RiskiVR/RiskiPlayer](https://github.com/RiskiVR/RiskiPlayer)
+Project Link - https://github.com/RiskiVR/RiskiPlayer
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * [RiskiVR](https://www.patreon.com/riskivr) - Designer of RiskiPlayer
 * [MerlinVR](https://github.com/MerlinVR/USharpVideo) - UdonSharp & USharpVideo
-* [M.O.O.N](https://www.youtube.com/channel/UC6pqxF0s6FSu6oVm-70lzqQ) - Fullscreen Shader
 
 <!-- ARCHIVES -->
 ## Archives
+
+- RiskiPlayer 2.0
+
+<img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer v2.0.png" alt="Player" width="900" height="500">
 
 - RiskiPlayer v1.0
 
