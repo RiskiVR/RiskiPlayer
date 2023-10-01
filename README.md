@@ -26,7 +26,7 @@
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Download [VRChat Creator Companion](https://vrchat.com/home/download) from VRChat and install UdonSharp in your Creator Companion project settings.
+ - Download [VRChat Creator Companion](https://vrchat.com/home/download) from VRChat and install UdonSharp in your Creator Companion project.
  - Download the RiskiPlayer Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project.
  - Position it wherever you want it in your world! It's resizable as well.
