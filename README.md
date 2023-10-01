@@ -11,7 +11,7 @@
     <h3 align="center">LTCGI Compatible</h3>
 
   <p align="center">
-    Requires VRCSDK3 and UdonSharp
+    Requires VRChat Creator Companion and UdonSharp
     <p align="center">
     <a href="https://github.com/RiskiVR/RiskiPlayer/releases/latest/download/RiskiPlayer_Public_v2.2.unitypackage">
       <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/Download.png" alt="Logo" width="400" height="50">
@@ -26,8 +26,8 @@
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Download [VRCSDK3](https://vrchat.com/home/download) from VRChat and [UdonSharp](https://github.com/MerlinVR/UdonSharp/releases) from [MerlinVR](https://github.com/MerlinVR).
- - Download the Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
+ - Download [VRChat Creator Companion](https://vrchat.com/home/download) from VRChat and install UdonSharp in your Creator Companion project settings.
+ - Download the RiskiPlayer Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
  - Once that's done, import the Unity package into your world project.
  - Position it wherever you want it in your world! It's resizable as well.
  - Configure it's starting behavior; You can toggle it's startup UI visibility on the main RiskiPlayer Object.
