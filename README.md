@@ -8,8 +8,6 @@
   </a>
 
   <h3 align="center">Simple and fancy video player for VRChat with an on-screen interface</h3>
-    <h3 align="center">LTCGI Compatible</h3>
-
   <p align="center">
     Requires VRChat Creator Companion and UdonSharp
     <p align="center">
