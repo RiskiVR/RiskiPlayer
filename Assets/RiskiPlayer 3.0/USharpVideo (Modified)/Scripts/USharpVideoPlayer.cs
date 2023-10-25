@@ -715,7 +715,7 @@ namespace UdonSharp.Video
             LogMessage($"Started video load for URL: {url}, requested by {Networking.GetOwner(gameObject).displayName}");
 #endif
 
-            SetStatusText("Loading video...");
+            SetStatusText("Loading...");
             ResetVideoLoad();
             _loadingVideo = true;
             _videoPlayerManager.LoadURL(url);

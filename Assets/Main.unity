@@ -3239,7 +3239,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: v3.0.7
+  m_Text: v3.0.8
 --- !u!222 &1504964003
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3999,7 +3999,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 50
+  m_PixelsPerUnitMultiplier: 35
 --- !u!222 &2051802903
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6939,7 +6939,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 0
   MinDistance: 1
-  MaxDistance: 35
+  MaxDistance: 1.000001
   Pan2D: 0
   rolloffMode: 1
   BypassEffects: 0
@@ -7387,7 +7387,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 50
+  m_PixelsPerUnitMultiplier: 35
 --- !u!222 &2139897464027751083
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8584,7 +8584,7 @@ MonoBehaviour:
   syncFrequency: 10
   syncThreshold: 0.85
   defaultVolume: 0.75
-  audioRange: 35
+  audioRange: 0
   playlist: []
   defaultStreamMode: 1
   loopPlaylist: 0
