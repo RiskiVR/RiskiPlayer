@@ -81,7 +81,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: ReloadIcon/Icon
+    path: Icon/Image
   m_PositionCurves: []
   m_ScaleCurves: []
   m_FloatCurves: []
@@ -101,7 +101,7 @@ AnimationClip:
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3125635872
+      path: 44898167
       attribute: 4
       script: {fileID: 0}
       typeID: 4
@@ -265,7 +265,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: ReloadIcon/Icon
+    path: Icon/Image
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -302,7 +302,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: ReloadIcon/Icon
+    path: Icon/Image
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -330,7 +330,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: ReloadIcon/Icon
+    path: Icon/Image
     classID: 224
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -371,7 +371,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: ReloadIcon/Icon
+    path: Icon/Image
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -381,7 +381,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: ReloadIcon/Icon
+    path: Icon/Image
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -391,7 +391,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: ReloadIcon/Icon
+    path: Icon/Image
     classID: 224
     script: {fileID: 0}
   m_HasGenericRootTransform: 0

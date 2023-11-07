@@ -84,11 +84,12 @@ namespace UdonSharp.Video
         GameObject pauseIcon, stopIcon;
 
         [Header("Loop button")]
-        [SerializeField]
-        Graphic loopButtonBackground;
 
         [SerializeField]
-        Graphic loopButtonIcon;
+        GameObject loopButtonIcon;
+            
+        [SerializeField]
+        GameObject loopButtonOnIcon;
 
         [Header("Video/Stream controls")]
         [SerializeField]
@@ -227,13 +228,19 @@ namespace UdonSharp.Video
         {
             if (looping)
             {
-                //if (loopButtonBackground) loopButtonBackground.color = new Color(1,1,1,1);
-                if (loopButtonIcon) loopButtonIcon.color = new Color(0,1,1,1);
+                if (loopButtonIcon)
+                {
+                    loopButtonIcon.SetActive(false);
+                    loopButtonOnIcon.SetActive(true);
+                }
             }
             else
             {
-                //if (loopButtonBackground) loopButtonBackground.color = new Color(1,1,1,0);;
-                if (loopButtonIcon) loopButtonIcon.color = new Color(1,1,1,1);;
+                if (loopButtonIcon)
+                {
+                    loopButtonIcon.SetActive(true);
+                    loopButtonOnIcon.SetActive(false);
+                }
             }
         }
 

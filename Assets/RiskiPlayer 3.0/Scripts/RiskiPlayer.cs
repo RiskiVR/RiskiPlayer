@@ -1,6 +1,7 @@
 ﻿using UdonSharp;
 using UnityEngine;
 using UnityEngine.UI;
+using VRC.SDK3.Components;
 using VRC.SDKBase;
 using VRC.Udon;
 
@@ -17,6 +18,7 @@ public class RiskiPlayer : UdonSharpBehaviour
     [SerializeField] GameObject exitUIButton;
     [SerializeField] Slider brightnessSlider;
     [SerializeField] Image brightness;
+
     private void Start()
     {
         if (menuOnStart) BootUI();
@@ -28,7 +30,6 @@ public class RiskiPlayer : UdonSharpBehaviour
         main.SetTrigger("BootUI");
         exitUIButton.SetActive(true);
         enterUIButton.SetActive(false);
-        Debug.Log("UI has been booted");
     }
     
     public void ExitUI()
@@ -36,7 +37,6 @@ public class RiskiPlayer : UdonSharpBehaviour
         main.SetTrigger("ExitUI");
         exitUIButton.SetActive(false);
         enterUIButton.SetActive(true);
-        Debug.Log("UI has been closed");
     }
     
     public void OnBrightnessValueChanged()
