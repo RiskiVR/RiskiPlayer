@@ -54,7 +54,7 @@ Project Link - https://github.com/RiskiVR/RiskiPlayer
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [RiskiVR](https://www.patreon.com/riskivr) - Designer of RiskiPlayer
+* [RiskiVR](https://www.patreon.com/riskivr) - Creator of RiskiPlayer
 * [MerlinVR](https://github.com/MerlinVR/USharpVideo) - UdonSharp & USharpVideo
 
 <!-- ARCHIVES -->
