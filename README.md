@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- RiskiPlayer is a modified video player of Merlin's USharpVideo player for VRChat with a fancy on-screen interface!
+- RiskiPlayer is a modified video player of ArchiTechVR's [ProTV](https://protv.dev/) for VRChat with a fancy on-screen interface!
 - This Player is also compatible with [LTCGI](https://github.com/PiMaker/ltcgi)!
 - Try it [Here](https://vrchat.com/home/launch?worldId=wrld_5aef79df-3c73-40c1-9158-46439743ae6a&instanceId=88932~private(usr_51f28798-89da-409c-bf4e-343d4d916e02)~canRequestInvite~region(us)~nonce(5bee321c-f3d3-4f72-bbb5-da27242a67ad))!
 
@@ -57,6 +57,7 @@ Project Link - https://github.com/RiskiVR/RiskiPlayer
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
+* [ArchiTechVR](https://protv.dev/) - ProTV
 * [RiskiVR](https://www.patreon.com/riskivr) - Creator of RiskiPlayer
 * [MerlinVR](https://github.com/MerlinVR/USharpVideo) - UdonSharp & USharpVideo
 * [ureishi](https://65536.booth.pm/items/4588619) - YTTL
