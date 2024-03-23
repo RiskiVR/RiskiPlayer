@@ -58,9 +58,8 @@ Project Link - https://github.com/RiskiVR/RiskiPlayer
 ## Acknowledgements
 
 * [ArchiTechVR](https://protv.dev/) - ProTV
-* [MerlinVR](https://github.com/MerlinVR/USharpVideo) - UdonSharp & USharpVideo
-* [ureishi](https://65536.booth.pm/items/4588619) - YTTL
 * [RiskiVR](https://www.patreon.com/riskivr) - RiskiPlayer
+* [MerlinVR](https://github.com/MerlinVR/USharpVideo) - UdonSharp
 
 <!-- ARCHIVES -->
 ## Archives
