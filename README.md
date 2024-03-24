@@ -9,7 +9,7 @@
 
   <h3 align="center">Simple and fancy video player for VRChat with an on-screen interface</h3>
   <p align="center">
-    Requires VRChat Creator Companion and UdonSharp
+    Requires VRChat Creator Companion, ProTV and UdonSharp
     <p align="center">
     <a href="https://github.com/RiskiVR/RiskiPlayer/releases/latest/download/RiskiPlayer_Public_v3.1.unitypackage">
       <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/Download.png" alt="Logo" width="400" height="50">
