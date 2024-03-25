@@ -30,6 +30,7 @@
  - Import the RiskiPlayer Unity package into your world project.
  - Drag & Drop the RiskiPlayer prefab anywhere in the scene or hierarchy.
  - Position it wherever you want it in your world! It's resizable as well.
+ - Add your own buttons! Here's a [quick tutorial](https://www.youtube.com/watch?v=3TY01Dyyvgc) on how to do so.
  - Configure it's starting behavior; You can toggle it's startup UI visibility on the main RiskiPlayer Object.
 <img src="https://github.com/RiskiVR/RiskiPlayer/blob/main/images/RiskiPlayer Settings.png" alt="Player" width="246" height="72">
 
