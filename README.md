@@ -26,7 +26,7 @@
 
  - Download [VRChat Creator Companion](https://vrchat.com/home/download) from VRChat and install UdonSharp in your Creator Companion project.
  - Download the RiskiPlayer Unity Package from [Releases](https://github.com/RiskiVR/RiskiPlayer/releases/latest).
- - Install the [ProTV](https://vpm.techanon.dev/) package via VCC.
+ - Install the [ProTV package](https://vpm.techanon.dev/) via VCC.
  - Import the RiskiPlayer Unity package into your world project.
  - Drag & Drop the RiskiPlayer prefab anywhere in the scene or hierarchy.
  - Position it wherever you want it in your world! It's resizable as well.
