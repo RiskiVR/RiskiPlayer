@@ -25,8 +25,8 @@
 ## How To Use
 
  - Download [VRChat Creator Companion](https://vrchat.com/home/download) from VRChat.
- - Enable Pre-releases in [VRChat Creator Companion](https://vrchat.com/home/download).
- - Install the [ProTV package](https://vpm.techanon.dev/) via [VRChat Creator Companion](https://vrchat.com/home/download).
+ - Enable Pre-releases in VRChat Creator Companion.
+ - Install the [ProTV package](https://vpm.techanon.dev/) via VRChat Creator Companion.
  - Install the "**ArchiTech.ProTV** & **ArchiTech.ProTV.Extras**" packages in your world project packages.
  - Find the **RiskiPlayer** prefab located in `Packages\dev.architech.protv.extras\Samples\Prefabs\RiskiPlayer`
  - Drag & Drop the **RiskiPlayer** prefab anywhere in the scene or hierarchy.
